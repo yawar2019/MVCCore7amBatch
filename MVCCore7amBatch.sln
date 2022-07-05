@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiDemo2", "..\WebApiDem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC7amMiracleBatch", "..\MVC7amMiracleBatch\MVC7amMiracleBatch.csproj", "{176D74B6-818E-4E46-BD5D-50A482360384}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstApproach", "..\CodeFirstApproach\CodeFirstApproach.csproj", "{DA69B16E-49D5-455B-A290-FA466EA9047E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApproach", "..\CodeFirstApproach\CodeFirstApproach.csproj", "{DA69B16E-49D5-455B-A290-FA466EA9047E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authen", "..\Authen\Authen.csproj", "{D9BBB30D-B117-416D-AB26-8F888C617227}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{DA69B16E-49D5-455B-A290-FA466EA9047E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA69B16E-49D5-455B-A290-FA466EA9047E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA69B16E-49D5-455B-A290-FA466EA9047E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BBB30D-B117-416D-AB26-8F888C617227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BBB30D-B117-416D-AB26-8F888C617227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BBB30D-B117-416D-AB26-8F888C617227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BBB30D-B117-416D-AB26-8F888C617227}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
