@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authen", "..\Authen\Authen.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreIdentity", "..\AspNetCoreIdentity\AspNetCoreIdentity.csproj", "{F628256A-266B-4DBE-A4C4-DB65C21E60B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationsExample", "..\AuthenticationsExample\AuthenticationsExample.csproj", "{7AFE24AC-54E7-4367-BE61-0B4AE511F276}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationsExample", "..\AuthenticationsExample\AuthenticationsExample.csproj", "{7AFE24AC-54E7-4367-BE61-0B4AE511F276}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
